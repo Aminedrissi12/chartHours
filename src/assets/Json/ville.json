@@ -1,0 +1,4542 @@
+[
+  {
+    "id": 1,
+    "ville": "Afourar",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.21, "longitude": -6.5 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.4 }
+    ]
+  },
+  {
+    "id": 2,
+    "ville": "Agadir",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.413, "longitude": -9.602 },
+    "monthly": [
+      { "month": 1, "hour": 6.4 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 7.2 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 6.4 },
+      { "month": 6, "hour": 6.6 },
+      { "month": 7, "hour": 5.4 },
+      { "month": 8, "hour": 6.1 },
+      { "month": 9, "hour": 5.7 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 6 }
+    ]
+  },
+  {
+    "id": 3,
+    "ville": "Agdz",
+    "region": 8,
+    "GeoPosition": { "latitude": 30.696, "longitude": -6.446 },
+    "monthly": [
+      { "month": 1, "hour": 6.9 },
+      { "month": 2, "hour": 7.8 },
+      { "month": 3, "hour": 7.4 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.7 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 6.5 }
+    ]
+  },
+  {
+    "id": 4,
+    "ville": "Aghbala",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.483, "longitude": -5.65 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.4 },
+      { "month": 8, "hour": 6.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.6 }
+    ]
+  },
+  {
+    "id": 5,
+    "ville": "Agourai",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.633, "longitude": -5.583 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.7 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 6,
+    "ville": "Ahfir",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.963, "longitude": -2.101 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.3 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.2 },
+      { "month": 5, "hour": 6.2 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 7,
+    "ville": "Ain El Aouda",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.1, "longitude": -4.05 },
+    "monthly": [
+      { "month": 1, "hour": 4.7 },
+      { "month": 2, "hour": 6.3 },
+      { "month": 3, "hour": 5.3 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 4.8 },
+      { "month": 12, "hour": 3.4 }
+    ]
+  },
+  {
+    "id": 8,
+    "ville": "Ain Taoujdate",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.933, "longitude": -5.216 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.6 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 9,
+    "ville": "Ait Daoud",
+    "region": 7,
+    "GeoPosition": { "latitude": 35.12, "longitude": -4.03 },
+    "monthly": [
+      { "month": 1, "hour": 4.9 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 4.9 },
+      { "month": 4, "hour": 4.8 },
+      { "month": 5, "hour": 6.1 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.3 },
+      { "month": 10, "hour": 5.5 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 10,
+    "ville": "Ajdir",
+    "region": 1,
+    "GeoPosition": { "latitude": 34.733, "longitude": -3.967 },
+    "monthly": [
+      { "month": 1, "hour": 4.4 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 5.1 },
+      { "month": 4, "hour": 5.7 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 3.4 }
+    ]
+  },
+  {
+    "id": 11,
+    "ville": "Akchour",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.2429, "longitude": -5.1821 },
+    "monthly": [
+      { "month": 1, "hour": 4.2 },
+      { "month": 2, "hour": 5.4 },
+      { "month": 3, "hour": 4.6 },
+      { "month": 4, "hour": 4.3 },
+      { "month": 5, "hour": 6 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.2 },
+      { "month": 10, "hour": 5.6 },
+      { "month": 11, "hour": 4.2 },
+      { "month": 12, "hour": 3.3 }
+    ]
+  },
+  {
+    "id": 12,
+    "ville": "Akka",
+    "region": 9,
+    "GeoPosition": { "latitude": 29.391, "longitude": -8.258 },
+    "monthly": [
+      { "month": 1, "hour": 6.9 },
+      { "month": 2, "hour": 7.8 },
+      { "month": 3, "hour": 7.9 },
+      { "month": 4, "hour": 8 },
+      { "month": 5, "hour": 7.7 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 7.2 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 6.2 },
+      { "month": 12, "hour": 6.5 }
+    ]
+  },
+  {
+    "id": 13,
+    "ville": "Aklim",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.92, "longitude": -2.43 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5 },
+      { "month": 5, "hour": 6 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 14,
+    "ville": "Aknoul",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.67, "longitude": -3.872 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 15,
+    "ville": "Al Hoceïma",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.252, "longitude": -3.936 },
+    "monthly": [
+      { "month": 1, "hour": 5 },
+      { "month": 2, "hour": 5.8 },
+      { "month": 3, "hour": 5.2 },
+      { "month": 4, "hour": 5.2 },
+      { "month": 5, "hour": 6.5 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.3 },
+      { "month": 10, "hour": 5.6 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 16,
+    "ville": "Alnif",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.117, "longitude": -5.174 },
+    "monthly": [
+      { "month": 1, "hour": 6.8 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7.4 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 17,
+    "ville": "Amizmiz",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.213, "longitude": -8.234 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 18,
+    "ville": "Anzi",
+    "region": 9,
+    "GeoPosition": { "latitude": -0.862, "longitude": 23.407 },
+    "monthly": [
+      { "month": 1, "hour": 4.1 },
+      { "month": 2, "hour": 4.5 },
+      { "month": 3, "hour": 4.5 },
+      { "month": 4, "hour": 5.1 },
+      { "month": 5, "hour": 5.1 },
+      { "month": 6, "hour": 5.7 },
+      { "month": 7, "hour": 5 },
+      { "month": 8, "hour": 4.8 },
+      { "month": 9, "hour": 4.8 },
+      { "month": 10, "hour": 4.4 },
+      { "month": 11, "hour": 3.6 },
+      { "month": 12, "hour": 3.8 }
+    ]
+  },
+  {
+    "id": 19,
+    "ville": "Aoufous",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.683, "longitude": -4.183 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.5 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6 }
+    ]
+  },
+  {
+    "id": 20,
+    "ville": "Aoulouz",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.688, "longitude": -8.158 },
+    "monthly": [
+      { "month": 1, "hour": 6.6 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 6.8 },
+      { "month": 4, "hour": 6.9 },
+      { "month": 5, "hour": 6.6 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 21,
+    "ville": "Aourir",
+    "region": 9,
+    "GeoPosition": { "latitude": 36.633, "longitude": 4.633 },
+    "monthly": [
+      { "month": 1, "hour": 3.8 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 4.7 },
+      { "month": 4, "hour": 5.3 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 5.8 },
+      { "month": 10, "hour": 5.5 },
+      { "month": 11, "hour": 3.8 },
+      { "month": 12, "hour": 3.2 }
+    ]
+  },
+  {
+    "id": 22,
+    "ville": "Arazane",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.507, "longitude": -8.615 },
+    "monthly": [
+      { "month": 1, "hour": 6.6 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 23,
+    "ville": "Arbaoua",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.912, "longitude": -5.914 },
+    "monthly": [
+      { "month": 1, "hour": 5 },
+      { "month": 2, "hour": 6 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.7 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 3.9 }
+    ]
+  },
+  {
+    "id": 24,
+    "ville": "erfoud",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.439, "longitude": -4.244 },
+    "monthly": [
+      { "month": 1, "hour": 6.7 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.5 },
+      { "month": 4, "hour": 7.4 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 7.1 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 25,
+    "ville": "Assa",
+    "region": 10,
+    "GeoPosition": { "latitude": 28.584, "longitude": -9.431 },
+    "monthly": [
+      { "month": 1, "hour": 6.8 },
+      { "month": 2, "hour": 7.7 },
+      { "month": 3, "hour": 7.9 },
+      { "month": 4, "hour": 8 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7.2 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 6.1 },
+      { "month": 12, "hour": 6.5 }
+    ]
+  },
+  {
+    "id": 26,
+    "ville": "Assahrij",
+    "region": 7,
+    "GeoPosition": { "latitude": 27.367, "longitude": 30.933 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.9 },
+      { "month": 4, "hour": 7.4 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 7.2 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 6.7 },
+      { "month": 12, "hour": 5.9 }
+    ]
+  },
+  {
+    "id": 27,
+    "ville": "Assilah",
+    "region": 1,
+    "GeoPosition": { "latitude": 32.65, "longitude": 35.867 },
+    "monthly": [
+      { "month": 1, "hour": 3.8 },
+      { "month": 2, "hour": 4.7 },
+      { "month": 3, "hour": 5.2 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 7.1 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 28,
+    "ville": "Azemmour",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.293, "longitude": -8.346 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.6 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 29,
+    "ville": "Azilal",
+    "region": 5,
+    "GeoPosition": { "latitude": 31.964, "longitude": -6.558 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 30,
+    "ville": "Azrou",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.441, "longitude": -5.225 },
+    "monthly": [
+      { "month": 1, "hour": 4.9 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 31,
+    "ville": "Aïn Cheggag",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.883, "longitude": -5.033 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.5 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 32,
+    "ville": "Aïn Harrouda",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.637, "longitude": -7.448 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.6 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 33,
+    "ville": "Aïn Leuh",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.302, "longitude": -5.348 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.5 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 34,
+    "ville": "Aït Attab",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.117, "longitude": -6.683 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 35,
+    "ville": "Aït Hichem",
+    "region": 1,
+    "GeoPosition": { "latitude": 36.583, "longitude": 4.333 },
+    "monthly": [
+      { "month": 1, "hour": 3.8 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 4 },
+      { "month": 4, "hour": 4.9 },
+      { "month": 5, "hour": 6.6 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 5.6 },
+      { "month": 10, "hour": 5.3 },
+      { "month": 11, "hour": 3.4 },
+      { "month": 12, "hour": 3 }
+    ]
+  },
+  {
+    "id": 36,
+    "ville": "Aït Ourir",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.558, "longitude": -7.662 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6.5 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.9 }
+    ]
+  },
+  {
+    "id": 37,
+    "ville": "Bab Taza",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.067, "longitude": -5.2 },
+    "monthly": [
+      { "month": 1, "hour": 4.8 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.3 },
+      { "month": 4, "hour": 5.1 },
+      { "month": 5, "hour": 6.6 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.6 },
+      { "month": 8, "hour": 7.5 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 3.6 }
+    ]
+  },
+  {
+    "id": 38,
+    "ville": "Bejaâd",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.7691, "longitude": -6.3932 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.5 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.4 }
+    ]
+  },
+  {
+    "id": 39,
+    "ville": "Ben Ahmed",
+    "region": 6,
+    "GeoPosition": { "latitude": 15.033, "longitude": 43.133 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 6.2 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 5.8 },
+      { "month": 6, "hour": 5.3 },
+      { "month": 7, "hour": 4.8 },
+      { "month": 8, "hour": 5.2 },
+      { "month": 9, "hour": 6.2 },
+      { "month": 10, "hour": 6.9 },
+      { "month": 11, "hour": 6.9 },
+      { "month": 12, "hour": 6.5 }
+    ]
+  },
+  {
+    "id": 40,
+    "ville": "Ben Guerir",
+    "region": 7,
+    "GeoPosition": { "latitude": 32.243, "longitude": -7.9596 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 7.1 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.4 }
+    ]
+  },
+  {
+    "id": 41,
+    "ville": "Ben Sergao",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.3878, "longitude": -9.5687 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.2 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 6 }
+    ]
+  },
+  {
+    "id": 42,
+    "ville": "Ben Yakhlef",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.6813, "longitude": -7.349 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 43,
+    "ville": "Beni Ayat",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.21, "longitude": -6.7225 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 6.3 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 5.5 }
+    ]
+  },
+  {
+    "id": 44,
+    "ville": "Benslimane",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.623, "longitude": -7.121 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 45,
+    "ville": "Berkane",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.93, "longitude": -2.325 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 4.9 },
+      { "month": 5, "hour": 5.8 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 46,
+    "ville": "Berrechid",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.272, "longitude": -7.581 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 47,
+    "ville": "Bhalil",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.85, "longitude": -4.867 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.5 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 48,
+    "ville": "Bin elouidane",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.1086, "longitude": -6.4617 },
+    "monthly": [
+      { "month": 1, "hour": 6.1 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.3 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 49,
+    "ville": "Biougra",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.032, "longitude": -9.067 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.6 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 50,
+    "ville": "Bir Jdid",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.39, "longitude": -7.988 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.6 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 51,
+    "ville": "Bouanane",
+    "region": 2,
+    "GeoPosition": { "latitude": 32.052, "longitude": -3.049 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 6 }
+    ]
+  },
+  {
+    "id": 52,
+    "ville": "Bouarfa",
+    "region": 2,
+    "GeoPosition": { "latitude": 36.467, "longitude": 2.817 },
+    "monthly": [
+      { "month": 1, "hour": 4.1 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 4.2 },
+      { "month": 4, "hour": 4.7 },
+      { "month": 5, "hour": 6.6 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 5.8 },
+      { "month": 10, "hour": 5.2 },
+      { "month": 11, "hour": 3.7 },
+      { "month": 12, "hour": 2.8 }
+    ]
+  },
+  {
+    "id": 53,
+    "ville": "Boujdour",
+    "region": 11,
+    "GeoPosition": { "latitude": 26.126, "longitude": -14.484 },
+    "monthly": [
+      { "month": 1, "hour": 6.6 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 7.5 },
+      { "month": 4, "hour": 7.8 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 6.2 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 54,
+    "ville": "Boujniba",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.9, "longitude": -6.783 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.2 }
+    ]
+  },
+  {
+    "id": 55,
+    "ville": "Boulemane",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.367, "longitude": -4.75 },
+    "monthly": [
+      { "month": 1, "hour": 4.3 },
+      { "month": 2, "hour": 6.4 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.5 },
+      { "month": 8, "hour": 6.4 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 4.8 },
+      { "month": 12, "hour": 3.9 }
+    ]
+  },
+  {
+    "id": 56,
+    "ville": "Boumia",
+    "region": 8,
+    "GeoPosition": { "latitude": 6.917, "longitude": 18.3 },
+    "monthly": [
+      { "month": 1, "hour": 7.8 },
+      { "month": 2, "hour": 7.8 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 4.6 },
+      { "month": 6, "hour": 4 },
+      { "month": 7, "hour": 4.1 },
+      { "month": 8, "hour": 4.3 },
+      { "month": 9, "hour": 5.1 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 7.4 },
+      { "month": 12, "hour": 7.8 }
+    ]
+  },
+  {
+    "id": 57,
+    "ville": "Bouskoura",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.449, "longitude": -7.649 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 58,
+    "ville": "Bouznika",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.79, "longitude": -7.157 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 59,
+    "ville": "Brikcha",
+    "region": 1,
+    "GeoPosition": { "latitude": 34.96, "longitude": -5.58 },
+    "monthly": [
+      { "month": 1, "hour": 4.5 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.6 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.6 },
+      { "month": 11, "hour": 4.7 },
+      { "month": 12, "hour": 3.6 }
+    ]
+  },
+  {
+    "id": 60,
+    "ville": "Bzou",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.1, "longitude": -7.05 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.7 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 5.6 }
+    ]
+  },
+  {
+    "id": 61,
+    "ville": "Béni Mellal",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.3394, "longitude": -6.3608 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 5.6 }
+    ]
+  },
+  {
+    "id": 62,
+    "ville": "Casablanca",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.605, "longitude": -7.632 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.3 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.5 },
+      { "month": 11, "hour": 4.7 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 63,
+    "ville": "Chichaoua",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.544, "longitude": -8.766 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 6.5 },
+      { "month": 4, "hour": 7 },
+      { "month": 5, "hour": 7.4 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 5.6 }
+    ]
+  },
+  {
+    "id": 64,
+    "ville": "Dar Chaoui",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.53, "longitude": -5.71 },
+    "monthly": [
+      { "month": 1, "hour": 4.8 },
+      { "month": 2, "hour": 6.3 },
+      { "month": 3, "hour": 5 },
+      { "month": 4, "hour": 5.2 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.6 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.5 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 4.5 },
+      { "month": 12, "hour": 3.9 }
+    ]
+  },
+  {
+    "id": 65,
+    "ville": "Debdou",
+    "region": 2,
+    "GeoPosition": { "latitude": 33.981, "longitude": -3.053 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 66,
+    "ville": "Demnate",
+    "region": 5,
+    "GeoPosition": { "latitude": 31.755, "longitude": -7.008 },
+    "monthly": [
+      { "month": 1, "hour": 6.1 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 67,
+    "ville": "Deroua",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.41, "longitude": -7.53 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 68,
+    "ville": "Douar Kannine",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.73, "longitude": -2.48 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 6.3 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 69,
+    "ville": "Driouch",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.983, "longitude": -3.383 },
+    "monthly": [
+      { "month": 1, "hour": 5.2 },
+      { "month": 2, "hour": 6.2 },
+      { "month": 3, "hour": 5.3 },
+      { "month": 4, "hour": 5.2 },
+      { "month": 5, "hour": 6.1 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.9 }
+    ]
+  },
+  {
+    "id": 70,
+    "ville": "El Borouj",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.513, "longitude": -7.187 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6.6 },
+      { "month": 4, "hour": 6.7 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.5 }
+    ]
+  },
+  {
+    "id": 71,
+    "ville": "El Gara",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.29, "longitude": -7.231 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 72,
+    "ville": "El Hajeb",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.698, "longitude": -5.365 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 73,
+    "ville": "El Jadida",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.256, "longitude": -8.508 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.7 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.5 },
+      { "month": 7, "hour": 6.4 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.4 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 4.5 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 74,
+    "ville": "El Ksiba",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.583, "longitude": -6.033 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.3 }
+    ]
+  },
+  {
+    "id": 75,
+    "ville": "El Marsa",
+    "region": 11,
+    "GeoPosition": { "latitude": 36.4, "longitude": 0.917 },
+    "monthly": [
+      { "month": 1, "hour": 4.2 },
+      { "month": 2, "hour": 6.4 },
+      { "month": 3, "hour": 5.1 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.6 },
+      { "month": 11, "hour": 4.2 },
+      { "month": 12, "hour": 3.4 }
+    ]
+  },
+  {
+    "id": 76,
+    "ville": "El Menzel",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.838, "longitude": -4.534 },
+    "monthly": [
+      { "month": 1, "hour": 5.2 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.5 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 3.9 }
+    ]
+  },
+  {
+    "id": 77,
+    "ville": "Elkbab",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.733, "longitude": -5.517 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.6 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5 }
+    ]
+  },
+  {
+    "id": 78,
+    "ville": "Errachidia",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.933, "longitude": -4.433 },
+    "monthly": [
+      { "month": 1, "hour": 6.6 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.5 },
+      { "month": 4, "hour": 7.4 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 79,
+    "ville": "Essaouira",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.515, "longitude": -9.765 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 5.5 }
+    ]
+  },
+  {
+    "id": 80,
+    "ville": "Farkhana",
+    "region": 2,
+    "GeoPosition": { "latitude": 35.28, "longitude": -3.01 },
+    "monthly": [
+      { "month": 1, "hour": 4.8 },
+      { "month": 2, "hour": 5.7 },
+      { "month": 3, "hour": 5 },
+      { "month": 4, "hour": 4.8 },
+      { "month": 5, "hour": 5.9 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.3 },
+      { "month": 10, "hour": 5.6 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 81,
+    "ville": "Figuig",
+    "region": 2,
+    "GeoPosition": { "latitude": 32.125, "longitude": -1.226 },
+    "monthly": [
+      { "month": 1, "hour": 6.4 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 7.2 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 82,
+    "ville": "Fnideq",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.855, "longitude": -5.354 },
+    "monthly": [
+      { "month": 1, "hour": 4 },
+      { "month": 2, "hour": 5 },
+      { "month": 3, "hour": 4.9 },
+      { "month": 4, "hour": 4.5 },
+      { "month": 5, "hour": 6.6 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 5.4 },
+      { "month": 10, "hour": 5 },
+      { "month": 11, "hour": 3.6 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 83,
+    "ville": "Foum Zguid",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.09, "longitude": -6.873 },
+    "monthly": [
+      { "month": 1, "hour": 6.9 },
+      { "month": 2, "hour": 7.7 },
+      { "month": 3, "hour": 7.7 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 7.1 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 6 },
+      { "month": 12, "hour": 6.5 }
+    ]
+  },
+  {
+    "id": 84,
+    "ville": "Fès",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.044, "longitude": -4.996 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 85,
+    "ville": "Gardmit",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.52, "longitude": -5.03 },
+    "monthly": [
+      { "month": 1, "hour": 6.7 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.6 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 86,
+    "ville": "Ghafsai",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.63, "longitude": -4.91 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 6.6 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.7 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 3.6 }
+    ]
+  },
+  {
+    "id": 87,
+    "ville": "Goulmima",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.7, "longitude": -4.95 },
+    "monthly": [
+      { "month": 1, "hour": 6.7 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 88,
+    "ville": "Gourrama",
+    "region": 8,
+    "GeoPosition": { "latitude": 32.355, "longitude": -4.085 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7.2 },
+      { "month": 4, "hour": 7.3 },
+      { "month": 5, "hour": 7.4 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 89,
+    "ville": "Guelmim",
+    "region": 10,
+    "GeoPosition": { "latitude": 28.984, "longitude": -10.06 },
+    "monthly": [
+      { "month": 1, "hour": 6.6 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.4 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 6 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 90,
+    "ville": "Guercif",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.238, "longitude": -3.352 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6.7 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.2 }
+    ]
+  },
+  {
+    "id": 91,
+    "ville": "Guisser",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.767, "longitude": -7.5 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 6.5 },
+      { "month": 4, "hour": 6.7 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 5.2 }
+    ]
+  },
+  {
+    "id": 92,
+    "ville": "Had Kourt",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.617, "longitude": -5.733 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.7 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4.1 }
+    ]
+  },
+  {
+    "id": 93,
+    "ville": "Haj Kaddour",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.83, "longitude": -5.41 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.7 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 94,
+    "ville": "Hattane",
+    "region": 5,
+    "GeoPosition": { "latitude": 35.35, "longitude": 36.283 },
+    "monthly": [
+      { "month": 1, "hour": 2.5 },
+      { "month": 2, "hour": 3.3 },
+      { "month": 3, "hour": 4.7 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.6 },
+      { "month": 7, "hour": 7.6 },
+      { "month": 8, "hour": 7.5 },
+      { "month": 9, "hour": 7.2 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 3.6 },
+      { "month": 12, "hour": 3.1 }
+    ]
+  },
+  {
+    "id": 95,
+    "ville": "Ifrane",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.532, "longitude": -5.111 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.2 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 96,
+    "ville": "Ifri",
+    "region": 8,
+    "GeoPosition": { "latitude": 36.55, "longitude": 4.55 },
+    "monthly": [
+      { "month": 1, "hour": 3.7 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 4.9 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.6 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6 },
+      { "month": 10, "hour": 5.5 },
+      { "month": 11, "hour": 3.5 },
+      { "month": 12, "hour": 2.9 }
+    ]
+  },
+  {
+    "id": 97,
+    "ville": "Ighounane",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.26, "longitude": -7.11 },
+    "monthly": [
+      { "month": 1, "hour": 6.4 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.4 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 98,
+    "ville": "Imassine",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.117, "longitude": -6.317 },
+    "monthly": [
+      { "month": 1, "hour": 6.9 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7.2 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.5 }
+    ]
+  },
+  {
+    "id": 99,
+    "ville": "Imintanoute",
+    "region": 7,
+    "GeoPosition": { "latitude": 29.8, "longitude": -8.88 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 6.9 },
+      { "month": 4, "hour": 7.6 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.5 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 100,
+    "ville": "Imouzzer Marmoucha",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.489, "longitude": -4.273 },
+    "monthly": [
+      { "month": 1, "hour": 4.3 },
+      { "month": 2, "hour": 6 },
+      { "month": 3, "hour": 6.3 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 4.5 },
+      { "month": 12, "hour": 3.2 }
+    ]
+  },
+  {
+    "id": 101,
+    "ville": "Inezgane",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.373, "longitude": -9.536 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.4 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 102,
+    "ville": "Irherm",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.084, "longitude": -8.461 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.7 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.9 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.5 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 103,
+    "ville": "Itzer",
+    "region": 8,
+    "GeoPosition": { "latitude": 32.883, "longitude": -5.05 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.5 },
+      { "month": 4, "hour": 7 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 7.5 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 5.5 }
+    ]
+  },
+  {
+    "id": 104,
+    "ville": "Jerada",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.319, "longitude": -2.167 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 105,
+    "ville": "Jorf",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.5, "longitude": -4.4 },
+    "monthly": [
+      { "month": 1, "hour": 6.7 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.4 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 106,
+    "ville": "Jorf Lasfar",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.133, "longitude": -8.603 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 6.6 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.9 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 4.8 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 107,
+    "ville": "Karia Ba Mohamed",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.375, "longitude": -5.205 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 108,
+    "ville": "Kasba Tadla",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.605, "longitude": -6.273 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 6.3 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.6 }
+    ]
+  },
+  {
+    "id": 109,
+    "ville": "Kassita",
+    "region": 2,
+    "GeoPosition": { "latitude": 10.3, "longitude": -3.567 },
+    "monthly": [
+      { "month": 1, "hour": 7.6 },
+      { "month": 2, "hour": 7.9 },
+      { "month": 3, "hour": 6.5 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 5.4 },
+      { "month": 6, "hour": 4.5 },
+      { "month": 7, "hour": 4.2 },
+      { "month": 8, "hour": 4 },
+      { "month": 9, "hour": 4.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 7.5 },
+      { "month": 12, "hour": 7.5 }
+    ]
+  },
+  {
+    "id": 110,
+    "ville": "Kerrouchen",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.817, "longitude": -5.333 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.5 },
+      { "month": 5, "hour": 6.5 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.5 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 111,
+    "ville": "Khenichet",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.433, "longitude": -5.667 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.2 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.2 }
+    ]
+  },
+  {
+    "id": 112,
+    "ville": "Khouribga",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.89, "longitude": -6.907 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.5 },
+      { "month": 4, "hour": 6.5 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.3 }
+    ]
+  },
+  {
+    "id": 113,
+    "ville": "Khemisset",
+    "region": 4,
+    "GeoPosition": { "latitude": 33.839, "longitude": -6.069 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 114,
+    "ville": "Khenifra",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.947, "longitude": -5.667 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.4 }
+    ]
+  },
+  {
+    "id": 115,
+    "ville": "Ksar El Kebir",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.012, "longitude": -5.901 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4.1 }
+    ]
+  },
+  {
+    "id": 116,
+    "ville": "Kenitra",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.264, "longitude": -6.578 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.2 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 117,
+    "ville": "Laayoune",
+    "region": 11,
+    "GeoPosition": { "latitude": 35.696, "longitude": 2.009 },
+    "monthly": [
+      { "month": 1, "hour": 5.2 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.5 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 4.8 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 118,
+    "ville": "Lalla Mimouna",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.85, "longitude": -6.067 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 6 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 119,
+    "ville": "Lalla Takerkoust",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.367, "longitude": -8.133 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.7 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 120,
+    "ville": "Larache",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.198, "longitude": -6.151 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 4.6 },
+      { "month": 12, "hour": 3.9 }
+    ]
+  },
+  {
+    "id": 121,
+    "ville": "M'diq",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.682, "longitude": -5.317 },
+    "monthly": [
+      { "month": 1, "hour": 4.3 },
+      { "month": 2, "hour": 5 },
+      { "month": 3, "hour": 4.9 },
+      { "month": 4, "hour": 4.6 },
+      { "month": 5, "hour": 6.3 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 5.6 },
+      { "month": 10, "hour": 5.3 },
+      { "month": 11, "hour": 4 },
+      { "month": 12, "hour": 4.1 }
+    ]
+  },
+  {
+    "id": 122,
+    "ville": "Madagh",
+    "region": 2,
+    "GeoPosition": { "latitude": 35, "longitude": -2.33 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5 },
+      { "month": 5, "hour": 5.9 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 123,
+    "ville": "Marrakech",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.631, "longitude": -8.012 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 124,
+    "ville": "Martil",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.628, "longitude": -5.286 },
+    "monthly": [
+      { "month": 1, "hour": 4.5 },
+      { "month": 2, "hour": 5 },
+      { "month": 3, "hour": 5.1 },
+      { "month": 4, "hour": 4.7 },
+      { "month": 5, "hour": 6.2 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 5.8 },
+      { "month": 10, "hour": 5.6 },
+      { "month": 11, "hour": 4.2 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 125,
+    "ville": "Mehdia",
+    "region": 4,
+    "GeoPosition": { "latitude": 35.432, "longitude": 1.76 },
+    "monthly": [
+      { "month": 1, "hour": 5.2 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 126,
+    "ville": "Meknès",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.904, "longitude": -5.557 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 127,
+    "ville": "Midar",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.954, "longitude": -3.541 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 6.2 },
+      { "month": 3, "hour": 5.2 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.4 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 128,
+    "ville": "Midelt",
+    "region": 8,
+    "GeoPosition": { "latitude": 32.699, "longitude": -4.739 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.6 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6 },
+      { "month": 8, "hour": 6.3 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.9 }
+    ]
+  },
+  {
+    "id": 129,
+    "ville": "Missour",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.062, "longitude": -4 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.9 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 130,
+    "ville": "Mohammadia",
+    "region": 6,
+    "GeoPosition": { "latitude": 35.587, "longitude": 0.063 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.7 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 3.8 }
+    ]
+  },
+  {
+    "id": 131,
+    "ville": "Moulay Abdallah",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.2, "longitude": -8.583 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 132,
+    "ville": "Moulay Ali Cherif",
+    "region": 8,
+    "GeoPosition": { "latitude": 34.43, "longitude": -5.16 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.6 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.2 }
+    ]
+  },
+  {
+    "id": 133,
+    "ville": "Moulay Brahim",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.28, "longitude": -7.96 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.3 },
+      { "month": 8, "hour": 6.2 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 5.7 }
+    ]
+  },
+  {
+    "id": 134,
+    "ville": "Moussaoua",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.01, "longitude": -5.46 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.6 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 3.9 }
+    ]
+  },
+  {
+    "id": 135,
+    "ville": "Mzouda",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.58, "longitude": -8.49 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.5 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.7 }
+    ]
+  },
+  {
+    "id": 136,
+    "ville": "Nador",
+    "region": 2,
+    "GeoPosition": { "latitude": 35.168, "longitude": -2.944 },
+    "monthly": [
+      { "month": 1, "hour": 5.2 },
+      { "month": 2, "hour": 5.8 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 4.9 },
+      { "month": 5, "hour": 6.1 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.5 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 137,
+    "ville": "Naima",
+    "region": 2,
+    "GeoPosition": { "latitude": 14.592, "longitude": 32.236 },
+    "monthly": [
+      { "month": 1, "hour": 8 },
+      { "month": 2, "hour": 8.3 },
+      { "month": 3, "hour": 7.6 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 6 },
+      { "month": 6, "hour": 5.5 },
+      { "month": 7, "hour": 5 },
+      { "month": 8, "hour": 5.3 },
+      { "month": 9, "hour": 6.2 },
+      { "month": 10, "hour": 6.9 },
+      { "month": 11, "hour": 7.6 },
+      { "month": 12, "hour": 7.8 }
+    ]
+  },
+  {
+    "id": 138,
+    "ville": "Oualidia",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.735, "longitude": -9.029 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6.8 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 139,
+    "ville": "Ouarzazate",
+    "region": 8,
+    "GeoPosition": { "latitude": 30.92, "longitude": -6.894 },
+    "monthly": [
+      { "month": 1, "hour": 6.8 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.4 },
+      { "month": 4, "hour": 7.8 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.5 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.5 }
+    ]
+  },
+  {
+    "id": 140,
+    "ville": "Ouazzane",
+    "region": 1,
+    "GeoPosition": { "latitude": 34.809, "longitude": -5.57 },
+    "monthly": [
+      { "month": 1, "hour": 5.2 },
+      { "month": 2, "hour": 6.2 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 3.9 }
+    ]
+  },
+  {
+    "id": 141,
+    "ville": "Oued Amlil",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.2, "longitude": -4.283 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 142,
+    "ville": "Oued Laou",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.45, "longitude": -5.1 },
+    "monthly": [
+      { "month": 1, "hour": 4.5 },
+      { "month": 2, "hour": 5.1 },
+      { "month": 3, "hour": 5.1 },
+      { "month": 4, "hour": 4.5 },
+      { "month": 5, "hour": 6.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 5.9 },
+      { "month": 10, "hour": 5.5 },
+      { "month": 11, "hour": 4.3 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 143,
+    "ville": "Oued Zem",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.87, "longitude": -6.567 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.3 },
+      { "month": 4, "hour": 6.5 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 5.3 }
+    ]
+  },
+  {
+    "id": 144,
+    "ville": "Oujda",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.689, "longitude": -1.912 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 145,
+    "ville": "Oulad Abbou",
+    "region": 6,
+    "GeoPosition": { "latitude": 30.409, "longitude": -8.872 },
+    "monthly": [
+      { "month": 1, "hour": 6.4 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 6.9 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 146,
+    "ville": "Oulad Amrane",
+    "region": 6,
+    "GeoPosition": { "latitude": 34.21, "longitude": -5.01 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.7 },
+      { "month": 3, "hour": 5.6 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.6 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 147,
+    "ville": "Oulad Ayad",
+    "region": 5,
+    "GeoPosition": { "latitude": 36.65, "longitude": 5.6 },
+    "monthly": [
+      { "month": 1, "hour": 4.1 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 4.1 },
+      { "month": 4, "hour": 5.2 },
+      { "month": 5, "hour": 6.5 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 5.2 },
+      { "month": 10, "hour": 5.2 },
+      { "month": 11, "hour": 3.6 },
+      { "month": 12, "hour": 3.1 }
+    ]
+  },
+  {
+    "id": 148,
+    "ville": "Oulad Frej",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.954, "longitude": -8.222 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 149,
+    "ville": "Oulad M'Barek",
+    "region": 5,
+    "GeoPosition": { "latitude": 36.533, "longitude": 5.267 },
+    "monthly": [
+      { "month": 1, "hour": 0.9 },
+      { "month": 2, "hour": 3 },
+      { "month": 3, "hour": 4.2 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 5.1 },
+      { "month": 10, "hour": 3.9 },
+      { "month": 11, "hour": 1.2 },
+      { "month": 12, "hour": 0.9 }
+    ]
+  },
+  {
+    "id": 150,
+    "ville": "Oulad Saïd",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.967, "longitude": -7.817 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 151,
+    "ville": "Oulad Teïma",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.396, "longitude": -9.215 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 7.1 },
+      { "month": 4, "hour": 7.4 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 152,
+    "ville": "Oulad Yaich",
+    "region": 5,
+    "GeoPosition": { "latitude": 36.5, "longitude": 2.85 },
+    "monthly": [
+      { "month": 1, "hour": 4.3 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 4.3 },
+      { "month": 4, "hour": 4.7 },
+      { "month": 5, "hour": 6.6 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 5.8 },
+      { "month": 10, "hour": 5.2 },
+      { "month": 11, "hour": 3.7 },
+      { "month": 12, "hour": 3 }
+    ]
+  },
+  {
+    "id": 153,
+    "ville": "Oulad Zbair",
+    "region": 3,
+    "GeoPosition": { "latitude": 30.51, "longitude": -8.58 },
+    "monthly": [
+      { "month": 1, "hour": 6.6 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 154,
+    "ville": "Ouled Tayeb",
+    "region": 3,
+    "GeoPosition": { "latitude": 36.388, "longitude": 1.28 },
+    "monthly": [
+      { "month": 1, "hour": 4.7 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.6 },
+      { "month": 11, "hour": 4.7 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 155,
+    "ville": "Oulmes",
+    "region": 4,
+    "GeoPosition": { "latitude": 33.431, "longitude": -6.01 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 156,
+    "ville": "Rabat",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.015, "longitude": -6.833 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 157,
+    "ville": "Ras El Aïn",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.983, "longitude": -7.4 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.9 }
+    ]
+  },
+  {
+    "id": 158,
+    "ville": "Ras El Ma",
+    "region": 2,
+    "GeoPosition": { "latitude": 16.589, "longitude": -4.448 },
+    "monthly": [
+      { "month": 1, "hour": 7.1 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.5 },
+      { "month": 4, "hour": 6.7 },
+      { "month": 5, "hour": 6.2 },
+      { "month": 6, "hour": 5.7 },
+      { "month": 7, "hour": 5.6 },
+      { "month": 8, "hour": 5.6 },
+      { "month": 9, "hour": 6.5 },
+      { "month": 10, "hour": 7.1 },
+      { "month": 11, "hour": 7.2 },
+      { "month": 12, "hour": 7.2 }
+    ]
+  },
+  {
+    "id": 159,
+    "ville": "Rissani",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.295, "longitude": -4.257 },
+    "monthly": [
+      { "month": 1, "hour": 6.7 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.5 },
+      { "month": 4, "hour": 7.4 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 6 }
+    ]
+  },
+  {
+    "id": 160,
+    "ville": "Rommani",
+    "region": 4,
+    "GeoPosition": { "latitude": 33.534, "longitude": -6.601 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 161,
+    "ville": "Safi",
+    "region": 7,
+    "GeoPosition": { "latitude": 32.31, "longitude": -9.237 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6.8 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.9 }
+    ]
+  },
+  {
+    "id": 162,
+    "ville": "Salé",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.048, "longitude": -6.807 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.3 }
+    ]
+  },
+  {
+    "id": 163,
+    "ville": "Saïdia",
+    "region": 2,
+    "GeoPosition": { "latitude": 35.067, "longitude": -2.217 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.3 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5.1 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 164,
+    "ville": "Sebt Jahjouh",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.727, "longitude": -5.718 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 165,
+    "ville": "Selouane",
+    "region": 2,
+    "GeoPosition": { "latitude": 35.067, "longitude": -2.95 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 5.8 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 4.8 },
+      { "month": 5, "hour": 6 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 166,
+    "ville": "Settat",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.005, "longitude": -7.614 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 167,
+    "ville": "Sidi Ahmed",
+    "region": 7,
+    "GeoPosition": { "latitude": 35.072, "longitude": 0.012 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4 }
+    ]
+  },
+  {
+    "id": 168,
+    "ville": "Sidi Allal El Bahraoui",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.023, "longitude": -6.546 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.4 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.2 }
+    ]
+  },
+  {
+    "id": 169,
+    "ville": "Sidi Allal Tazi",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.517, "longitude": -6.333 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4.1 }
+    ]
+  },
+  {
+    "id": 170,
+    "ville": "Sidi Bennour",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.658, "longitude": -8.433 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 171,
+    "ville": "Sidi Bou Othmane",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.903, "longitude": -7.95 },
+    "monthly": [
+      { "month": 1, "hour": 6.1 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 7.1 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 5.6 }
+    ]
+  },
+  {
+    "id": 172,
+    "ville": "Sidi Boubker",
+    "region": 2,
+    "GeoPosition": { "latitude": 31.81, "longitude": -7.06 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 173,
+    "ville": "Sidi Bouzid",
+    "region": 6,
+    "GeoPosition": { "latitude": 35.043, "longitude": 9.495 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 6.7 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.1 },
+      { "month": 10, "hour": 6.2 },
+      { "month": 11, "hour": 4.9 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 174,
+    "ville": "Sidi Ifni",
+    "region": 10,
+    "GeoPosition": { "latitude": 29.384, "longitude": -10.176 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.6 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.4 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 5.7 }
+    ]
+  },
+  {
+    "id": 175,
+    "ville": "Sidi Jaber",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.383, "longitude": -6.417 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 5.7 }
+    ]
+  },
+  {
+    "id": 176,
+    "ville": "Sidi Kacem",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.231, "longitude": -5.71 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.4 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 177,
+    "ville": "Sidi Rahhal",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.641, "longitude": -7.589 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.5 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.8 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.9 }
+    ]
+  },
+  {
+    "id": 178,
+    "ville": "Sidi Slimane",
+    "region": 4,
+    "GeoPosition": { "latitude": 34.271, "longitude": -5.924 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.5 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.7 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4.2 }
+    ]
+  },
+  {
+    "id": 179,
+    "ville": "Sidi Smaïl",
+    "region": 6,
+    "GeoPosition": { "latitude": 32.838, "longitude": -8.518 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.4 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 180,
+    "ville": "Skhirate",
+    "region": 4,
+    "GeoPosition": { "latitude": 33.85, "longitude": -7.03 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 181,
+    "ville": "Skoura",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.079, "longitude": -6.555 },
+    "monthly": [
+      { "month": 1, "hour": 6.9 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.6 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.4 }
+    ]
+  },
+  {
+    "id": 182,
+    "ville": "Smimou",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.212, "longitude": -9.708 },
+    "monthly": [
+      { "month": 1, "hour": 6.2 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 5.7 }
+    ]
+  },
+  {
+    "id": 183,
+    "ville": "Soualem",
+    "region": 6,
+    "GeoPosition": { "latitude": 37, "longitude": 7.383 },
+    "monthly": [
+      { "month": 1, "hour": 4 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 4.7 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 5.4 },
+      { "month": 10, "hour": 5.2 },
+      { "month": 11, "hour": 3.9 },
+      { "month": 12, "hour": 3.1 }
+    ]
+  },
+  {
+    "id": 184,
+    "ville": "Souk El Arbaa",
+    "region": 4,
+    "GeoPosition": { "latitude": 32.4, "longitude": -8.51 },
+    "monthly": [
+      { "month": 1, "hour": 5.9 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.5 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 5 }
+    ]
+  },
+  {
+    "id": 185,
+    "ville": "Tafraout",
+    "region": 9,
+    "GeoPosition": { "latitude": 36.6, "longitude": 4.35 },
+    "monthly": [
+      { "month": 1, "hour": 3.1 },
+      { "month": 2, "hour": 5.3 },
+      { "month": 3, "hour": 4 },
+      { "month": 4, "hour": 4.9 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 5.6 },
+      { "month": 10, "hour": 5 },
+      { "month": 11, "hour": 3 },
+      { "month": 12, "hour": 2.3 }
+    ]
+  },
+  {
+    "id": 186,
+    "ville": "Taghzout",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.15, "longitude": -4.45 },
+    "monthly": [
+      { "month": 1, "hour": 4.7 },
+      { "month": 2, "hour": 5.6 },
+      { "month": 3, "hour": 5.1 },
+      { "month": 4, "hour": 4.6 },
+      { "month": 5, "hour": 5.8 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.1 },
+      { "month": 10, "hour": 5.5 },
+      { "month": 11, "hour": 5 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 187,
+    "ville": "Taliouine",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.534, "longitude": -7.927 },
+    "monthly": [
+      { "month": 1, "hour": 6.8 },
+      { "month": 2, "hour": 7.8 },
+      { "month": 3, "hour": 7.1 },
+      { "month": 4, "hour": 7.3 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.5 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.9 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 188,
+    "ville": "Talmest",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.811, "longitude": -9.337 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 5.4 }
+    ]
+  },
+  {
+    "id": 189,
+    "ville": "Talsint",
+    "region": 2,
+    "GeoPosition": { "latitude": 32.532, "longitude": -3.451 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 190,
+    "ville": "Tamanar",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.004, "longitude": -9.677 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 7.2 },
+      { "month": 4, "hour": 7.3 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 191,
+    "ville": "Tamassint",
+    "region": 1,
+    "GeoPosition": { "latitude": 31.5, "longitude": -5.51 },
+    "monthly": [
+      { "month": 1, "hour": 6.8 },
+      { "month": 2, "hour": 7.7 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.6 },
+      { "month": 5, "hour": 7.4 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.5 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.4 }
+    ]
+  },
+  {
+    "id": 192,
+    "ville": "Tameslouht",
+    "region": 7,
+    "GeoPosition": { "latitude": 31.5, "longitude": -8.108 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 193,
+    "ville": "Tamesna",
+    "region": 4,
+    "GeoPosition": { "latitude": 31.23, "longitude": -7.4 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.9 },
+      { "month": 4, "hour": 7.4 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.5 },
+      { "month": 7, "hour": 6.4 },
+      { "month": 8, "hour": 6.3 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 194,
+    "ville": "Tan-Tan",
+    "region": 10,
+    "GeoPosition": { "latitude": 28.429, "longitude": -11.098 },
+    "monthly": [
+      { "month": 1, "hour": 6.4 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 7.3 },
+      { "month": 6, "hour": 6.1 },
+      { "month": 7, "hour": 6 },
+      { "month": 8, "hour": 6.2 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.8 }
+    ]
+  },
+  {
+    "id": 195,
+    "ville": "Tanalt",
+    "region": 9,
+    "GeoPosition": { "latitude": 29.779, "longitude": -9.176 },
+    "monthly": [
+      { "month": 1, "hour": 4.8 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.9 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 4.7 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 196,
+    "ville": "Tanger",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.759, "longitude": -5.833 },
+    "monthly": [
+      { "month": 1, "hour": 4.9 },
+      { "month": 2, "hour": 6.1 },
+      { "month": 3, "hour": 5.8 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.5 },
+      { "month": 8, "hour": 7.4 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 4.7 },
+      { "month": 12, "hour": 4.2 }
+    ]
+  },
+  {
+    "id": 197,
+    "ville": "Taounate",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.549, "longitude": -4.635 },
+    "monthly": [
+      { "month": 1, "hour": 5.4 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 3.8 }
+    ]
+  },
+  {
+    "id": 198,
+    "ville": "Taourirt",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.42, "longitude": -2.894 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 6.3 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 199,
+    "ville": "Taourirt ait zaghar",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.28, "longitude": -6.58 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 7 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 7.4 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.4 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.6 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 200,
+    "ville": "Tarfaya",
+    "region": 11,
+    "GeoPosition": { "latitude": 27.936, "longitude": -12.919 },
+    "monthly": [
+      { "month": 1, "hour": 6.4 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.4 },
+      { "month": 7, "hour": 5.9 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.7 }
+    ]
+  },
+  {
+    "id": 201,
+    "ville": "Targuist",
+    "region": 1,
+    "GeoPosition": { "latitude": 34.947, "longitude": -4.312 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 6.6 },
+      { "month": 3, "hour": 5.1 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 202,
+    "ville": "Taroudannt",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.479, "longitude": -8.876 },
+    "monthly": [
+      { "month": 1, "hour": 6.4 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 6.9 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 203,
+    "ville": "Tata",
+    "region": 9,
+    "GeoPosition": { "latitude": 47.653, "longitude": 18.33 },
+    "monthly": [
+      { "month": 1, "hour": 2 },
+      { "month": 2, "hour": 3.6 },
+      { "month": 3, "hour": 4.9 },
+      { "month": 4, "hour": 7.3 },
+      { "month": 5, "hour": 5.4 },
+      { "month": 6, "hour": 5.3 },
+      { "month": 7, "hour": 6.5 },
+      { "month": 8, "hour": 5.7 },
+      { "month": 9, "hour": 5.3 },
+      { "month": 10, "hour": 2.6 },
+      { "month": 11, "hour": 1.7 },
+      { "month": 12, "hour": 1.2 }
+    ]
+  },
+  {
+    "id": 204,
+    "ville": "Taza",
+    "region": 3,
+    "GeoPosition": { "latitude": 34.218, "longitude": -4.012 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 6.1 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 205,
+    "ville": "Temsia",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.365, "longitude": -9.418 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 7.2 },
+      { "month": 4, "hour": 7.3 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 206,
+    "ville": "Tendrara",
+    "region": 2,
+    "GeoPosition": { "latitude": 33.052, "longitude": -1.993 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 6.8 },
+      { "month": 4, "hour": 7.1 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.5 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 5.4 }
+    ]
+  },
+  {
+    "id": 207,
+    "ville": "Tichoute",
+    "region": 8,
+    "GeoPosition": { "latitude": 32.9, "longitude": -5.05 },
+    "monthly": [
+      { "month": 1, "hour": 6.3 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.8 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.5 },
+      { "month": 7, "hour": 6.7 },
+      { "month": 8, "hour": 6.6 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 5.6 }
+    ]
+  },
+  {
+    "id": 208,
+    "ville": "Tiddas",
+    "region": 4,
+    "GeoPosition": { "latitude": 33.5682, "longitude": -6.2668 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.9 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 209,
+    "ville": "Tiflet",
+    "region": 4,
+    "GeoPosition": { "latitude": 33.897, "longitude": -6.306 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.8 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 6 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 210,
+    "ville": "Tifnit",
+    "region": 9,
+    "GeoPosition": { "latitude": 30.2, "longitude": -9.63 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.2 },
+      { "month": 3, "hour": 7.4 },
+      { "month": 4, "hour": 7.5 },
+      { "month": 5, "hour": 6.9 },
+      { "month": 6, "hour": 6.9 },
+      { "month": 7, "hour": 6.3 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.2 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 211,
+    "ville": "Tighassaline",
+    "region": 5,
+    "GeoPosition": { "latitude": 32.783, "longitude": -5.655 },
+    "monthly": [
+      { "month": 1, "hour": 6 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 5.8 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 7 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 5.5 }
+    ]
+  },
+  {
+    "id": 212,
+    "ville": "Tighza",
+    "region": 5,
+    "GeoPosition": { "latitude": 33.92, "longitude": -3.9 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 6.9 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.4 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.6 },
+      { "month": 8, "hour": 6.7 },
+      { "month": 9, "hour": 6.7 },
+      { "month": 10, "hour": 6.3 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.6 }
+    ]
+  },
+  {
+    "id": 213,
+    "ville": "Timahdite",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.2369, "longitude": -5.06 },
+    "monthly": [
+      { "month": 1, "hour": 5.6 },
+      { "month": 2, "hour": 7.3 },
+      { "month": 3, "hour": 6 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 6.5 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.5 },
+      { "month": 12, "hour": 4.8 }
+    ]
+  },
+  {
+    "id": 214,
+    "ville": "Tinejdad",
+    "region": 8,
+    "GeoPosition": { "latitude": 31.517, "longitude": -5.017 },
+    "monthly": [
+      { "month": 1, "hour": 6.7 },
+      { "month": 2, "hour": 7.6 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.6 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.8 },
+      { "month": 12, "hour": 6.3 }
+    ]
+  },
+  {
+    "id": 215,
+    "ville": "Tit Mellil",
+    "region": 6,
+    "GeoPosition": { "latitude": 33.558, "longitude": -7.486 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.5 },
+      { "month": 3, "hour": 5.9 },
+      { "month": 4, "hour": 6.3 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7.4 },
+      { "month": 8, "hour": 7.1 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 216,
+    "ville": "Tiznit",
+    "region": 9,
+    "GeoPosition": { "latitude": 29.708, "longitude": -9.733 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.1 },
+      { "month": 4, "hour": 7.6 },
+      { "month": 5, "hour": 7.2 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 6.2 }
+    ]
+  },
+  {
+    "id": 217,
+    "ville": "Tiztoutine",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.983, "longitude": -3.15 },
+    "monthly": [
+      { "month": 1, "hour": 5.1 },
+      { "month": 2, "hour": 5.9 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 5 },
+      { "month": 5, "hour": 6 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.1 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.7 }
+    ]
+  },
+  {
+    "id": 218,
+    "ville": "Touissit",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.483, "longitude": -1.767 },
+    "monthly": [
+      { "month": 1, "hour": 5.7 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 6.4 },
+      { "month": 4, "hour": 6.2 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.3 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.6 },
+      { "month": 12, "hour": 4.4 }
+    ]
+  },
+  {
+    "id": 219,
+    "ville": "Toulal",
+    "region": 3,
+    "GeoPosition": { "latitude": 32.3, "longitude": -3.98 },
+    "monthly": [
+      { "month": 1, "hour": 6.5 },
+      { "month": 2, "hour": 7.5 },
+      { "month": 3, "hour": 7.3 },
+      { "month": 4, "hour": 7.2 },
+      { "month": 5, "hour": 7.5 },
+      { "month": 6, "hour": 7.5 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 6.7 },
+      { "month": 11, "hour": 5.7 },
+      { "month": 12, "hour": 6.1 }
+    ]
+  },
+  {
+    "id": 220,
+    "ville": "Tounfite",
+    "region": 8,
+    "GeoPosition": { "latitude": 32.46, "longitude": -5.24 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7.4 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 6.1 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 6 },
+      { "month": 8, "hour": 5.9 },
+      { "month": 9, "hour": 6.5 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 5.1 }
+    ]
+  },
+  {
+    "id": 221,
+    "ville": "Tétouan",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.577, "longitude": -5.366 },
+    "monthly": [
+      { "month": 1, "hour": 4.6 },
+      { "month": 2, "hour": 5 },
+      { "month": 3, "hour": 4.7 },
+      { "month": 4, "hour": 4.5 },
+      { "month": 5, "hour": 6.1 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 5.7 },
+      { "month": 10, "hour": 5.5 },
+      { "month": 11, "hour": 4.5 },
+      { "month": 12, "hour": 4.1 }
+    ]
+  },
+  {
+    "id": 222,
+    "ville": "Youssoufia",
+    "region": 7,
+    "GeoPosition": { "latitude": 32.26, "longitude": -8.53 },
+    "monthly": [
+      { "month": 1, "hour": 5.8 },
+      { "month": 2, "hour": 7 },
+      { "month": 3, "hour": 6.2 },
+      { "month": 4, "hour": 6.5 },
+      { "month": 5, "hour": 7.1 },
+      { "month": 6, "hour": 7.1 },
+      { "month": 7, "hour": 7.3 },
+      { "month": 8, "hour": 7.3 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.4 },
+      { "month": 11, "hour": 5.2 },
+      { "month": 12, "hour": 5.2 }
+    ]
+  },
+  {
+    "id": 223,
+    "ville": "Zag",
+    "region": 10,
+    "GeoPosition": { "latitude": 27.969, "longitude": -8.816 },
+    "monthly": [
+      { "month": 1, "hour": 7 },
+      { "month": 2, "hour": 7.8 },
+      { "month": 3, "hour": 7.9 },
+      { "month": 4, "hour": 8.1 },
+      { "month": 5, "hour": 7.7 },
+      { "month": 6, "hour": 7 },
+      { "month": 7, "hour": 6.8 },
+      { "month": 8, "hour": 7 },
+      { "month": 9, "hour": 7.2 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 6.6 }
+    ]
+  },
+  {
+    "id": 224,
+    "ville": "Zagora",
+    "region": 8,
+    "GeoPosition": { "latitude": 30.331, "longitude": -5.857 },
+    "monthly": [
+      { "month": 1, "hour": 6.8 },
+      { "month": 2, "hour": 7.7 },
+      { "month": 3, "hour": 7.7 },
+      { "month": 4, "hour": 7.7 },
+      { "month": 5, "hour": 7.7 },
+      { "month": 6, "hour": 7.2 },
+      { "month": 7, "hour": 6.9 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 7.1 },
+      { "month": 10, "hour": 6.8 },
+      { "month": 11, "hour": 5.9 },
+      { "month": 12, "hour": 6.4 }
+    ]
+  },
+  {
+    "id": 225,
+    "ville": "Zaouia d'Ifrane",
+    "region": 3,
+    "GeoPosition": { "latitude": 33.567, "longitude": -5.133 },
+    "monthly": [
+      { "month": 1, "hour": 5.3 },
+      { "month": 2, "hour": 7.1 },
+      { "month": 3, "hour": 5.4 },
+      { "month": 4, "hour": 5.3 },
+      { "month": 5, "hour": 6.8 },
+      { "month": 6, "hour": 6.8 },
+      { "month": 7, "hour": 7 },
+      { "month": 8, "hour": 6.9 },
+      { "month": 9, "hour": 6.9 },
+      { "month": 10, "hour": 6.1 },
+      { "month": 11, "hour": 5.3 },
+      { "month": 12, "hour": 4.1 }
+    ]
+  },
+  {
+    "id": 226,
+    "ville": "Zaïo",
+    "region": 2,
+    "GeoPosition": { "latitude": 34.947, "longitude": -2.737 },
+    "monthly": [
+      { "month": 1, "hour": 5.5 },
+      { "month": 2, "hour": 6.3 },
+      { "month": 3, "hour": 5.7 },
+      { "month": 4, "hour": 5.6 },
+      { "month": 5, "hour": 6.4 },
+      { "month": 6, "hour": 7.4 },
+      { "month": 7, "hour": 7.2 },
+      { "month": 8, "hour": 7.2 },
+      { "month": 9, "hour": 6.8 },
+      { "month": 10, "hour": 5.9 },
+      { "month": 11, "hour": 5.4 },
+      { "month": 12, "hour": 4.5 }
+    ]
+  },
+  {
+    "id": 227,
+    "ville": "Zinat",
+    "region": 1,
+    "GeoPosition": { "latitude": 35.43, "longitude": -5.4 },
+    "monthly": [
+      { "month": 1, "hour": 4.5 },
+      { "month": 2, "hour": 6.3 },
+      { "month": 3, "hour": 5.1 },
+      { "month": 4, "hour": 4.9 },
+      { "month": 5, "hour": 6.7 },
+      { "month": 6, "hour": 6.7 },
+      { "month": 7, "hour": 7.6 },
+      { "month": 8, "hour": 7.5 },
+      { "month": 9, "hour": 6.6 },
+      { "month": 10, "hour": 5.8 },
+      { "month": 11, "hour": 4.6 },
+      { "month": 12, "hour": 3.7 }
+    ]
+  }
+]

@@ -2,7 +2,12 @@
   <a-form>
     <div class="CP_chart flexBox">
       <a-form-item :wrapper-col="{ span: 13, offset: 0 }" style="width: 40%">
-        <a-select show-search style="width: 200px">
+        <a-select
+          show-search
+          style="width: 200px"
+          v-model:value="name_City"
+          @keyup.enter="filter(name_City)"
+        >
           <div
             v-for="City in Citys"
             :key="City.ville"
@@ -28,6 +33,7 @@ export default {
   data() {
     return {
       Citys: dataCity,
+      name_City: null,
       chartData: null,
       config: {
         type: 'bar',
@@ -48,7 +54,7 @@ export default {
           ],
           datasets: [
             {
-              label: 'Hours in monthly',
+              label: 'The number of sunlight hours in a month',
               backgroundColor: '#f87979',
               data: [],
             },
@@ -84,15 +90,7 @@ export default {
         dataCity[0].monthly[11].hour,
       ]
 
-      console.log(dataCity[0].monthly[0].hour)
-      // console.log(this.config.data.datasets[0].data)
-      // for (let i = 0; i < dataCity[0].monthly.length; i++) {
-      //   this.config.data.datasets[0].data.push(dataCity[0].monthly[i].hour)
-      // }
-
-      // if (this.config.datasets[0].data.length !== 0) {
       this.drawChart(dataHour)
-      // }
     },
 
     drawChart(vl) {
@@ -120,7 +118,7 @@ export default {
           ],
           datasets: [
             {
-              label: 'Hours in monthly',
+              label: 'The number of sunlight hours in a month',
               backgroundColor: '#f87979',
               data: vl,
             },
